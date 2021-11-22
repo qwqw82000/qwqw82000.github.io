@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "당근을 흔들어봐!"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "당근을 흔들어라"
